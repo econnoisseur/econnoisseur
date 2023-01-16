@@ -1,16 +1,24 @@
-### Hi there 👋
+```zsh
+> neofetch
+```
 
-<!--
-**econnoisseur/econnoisseur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+econnoisseur@github
+-------------------------
+OS: macOS Big Sur 11.4
+Shell: fish 3.1.2
+Location: York, UK
+Frameworks: React, Next.js
+Languages: JavaScript, TypeScript
+Tools: GraphQL, Node.js, Prisma, TypeGraphQL
+Databases: PostgresQL, MongoDB, Firebase, Redis
+Learning: C#, go
+Hobbies: Rowing, Programming, Skateboarding, Music, Movies
+Discord: zxffo#9146
+```
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=econnoisseur)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
