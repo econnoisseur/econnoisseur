@@ -9,14 +9,14 @@ econnoisseur@github
 -------------------------
 OS: macOS Big Sur 11.4
 Shell: fish 3.1.2
-Location: York, UK
+Location: India
 Frameworks: React, Next.js
 Languages: JavaScript, TypeScript
 Tools: GraphQL, Node.js, Prisma, TypeGraphQL
 Databases: PostgresQL, MongoDB, Firebase, Redis
-Learning: C#, go
+Learning: C#, Go
 Hobbies: Rowing, Programming, Skateboarding, Music, Movies
-Discord: zxffo#9146
+Discord: zxffd#9316
 ```
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=econnoisseur)
